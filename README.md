@@ -1,6 +1,6 @@
 # howGitWorks
 
-## Git Commands
+## Git Commands on local machine
 - Start your project in your local machine cloning a GitHub repo or inizializing new repo:
 
     1. git clone <"repo-url"> to cloning GitHub repo
@@ -16,7 +16,9 @@
     1. git add -A to adding all new files create in the projects
     2. git commit -m <"message on new changing"> to save the modify and create a checkpoint
 
-- Branch:
+- Create a new branch to add a new features to the project and when you create a new branch, it is on another timeline:
+
     1. git branch to show the branches of the repo or git branch <"new branch"> to create new branch
     2. git branch -m <"new name"> to rename actual branch
     3. git branch -d <"branch name"> to delete branch
+
