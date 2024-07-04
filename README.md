@@ -28,3 +28,4 @@
 
     1. git checkout <"id-commit"> we can take id-commit from git log to restore working tree
     2. git checkout <"branch name"> to switch
+    3. git checkout -b <"new branch name"> to create and switch on new branch
