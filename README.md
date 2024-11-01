@@ -1,4 +1,10 @@
 # How Git Works
+![Static Badge](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
+![Static Badge](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)
+
+If you're new to Git, this guide walks you through the essential resources to get started.
+
+Follow the guide to help you get started and learn how Git works.
 
 ## Git commands on local machine
 1. Start your project in your local machine cloning a GitHub repo or inizializing new repo:
