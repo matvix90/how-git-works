@@ -1,5 +1,5 @@
 # How Git Works
-![Static Badge](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
+![Static Badge](https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git)
 ![Static Badge](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)
 
 If you're new to Git, this guide walks you through the essential resources to get started.
